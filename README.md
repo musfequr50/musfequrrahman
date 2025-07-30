@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Musfequr Rahman
 
-🎯 I'm an aspiring **SQA Automation Engineer** with hands-on experience in:
+🎯 I'm an aspiring **Software Quality Assurance Engineer** with hands-on experience in:
 
 - ✅ Web Automation (Selenium + Python)
 - 🔁 API Testing (Postman + Newman)

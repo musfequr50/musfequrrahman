@@ -9,4 +9,4 @@
 - ☁️ Git, GitHub, CI/CD (basic)
 
 📌 Currently building my QA portfolio and open to freelance/remote QA roles.
-📫 Let's connect: [LinkedIn](https://linkedin.com/in/[yourname](https://www.linkedin.com/in/md-musfequr-rahman-79a27a223/)) | [Email](musfequr47@gmail.com)
+📫 Let's connect: (https://www.linkedin.com/in/md-musfequr-rahman-79a27a223/)) | [Email](musfequr47@gmail.com)
